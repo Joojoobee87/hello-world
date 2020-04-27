@@ -1,0 +1,58 @@
+body {
+    background-image: url("tartanthom.png");
+}
+
+.colour-box {
+    display: block;
+    position: relative;
+    margin: auto;
+    width: 100%;
+    height: 200px;
+}
+
+.colour-1 {
+    background-color: #828285;
+    font-family: 'Dancing Script', cursive;
+    font-size: 24px;
+}
+
+.colour-2 {
+    background-color: #E5E5E5;
+    font-family: 'Great Vibes', cursive;
+    font-size: 24px;
+
+}
+
+.colour-3 {
+    background-color: #E6BEAE;
+    font-family: 'Parisienne', cursive;
+    font-size: 24px;
+
+}
+
+.colour-4 {
+    background-color: #73877B;
+    font-family: 'Italianno', cursive;
+    font-size: 24px;
+
+}
+
+.colour-5 {
+    background-color: #DDE0BD;
+    font-family: 'Mrs Saint Delafield', cursive;
+    font-size: 24px;
+
+}
+
+.colour-6 {
+    background-color: #D4D6D7;
+}
+
+.colour-7 {
+    background-color: #F6BD60;
+}
+
+.colour-8 {
+    background-color: #006494;
+}
+
